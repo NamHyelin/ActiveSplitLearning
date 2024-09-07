@@ -4,4 +4,6 @@ Code for "H. Nam, J. Park and S. -L. Kim, "Active Wireless Split Learning via On
 # Getting started
 dataset : CIFAR10
 main : Up_down_sparsification_VGG.py
-![image](https://github.com/user-attachments/assets/675857a0-967b-4ff9-93de-fff26a9b0cec)
+
+![image](https://github.com/user-attachments/assets/7f3ef957-224f-49c6-bcff-3b2725bc39f8)
+
