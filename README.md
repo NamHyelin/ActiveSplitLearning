@@ -13,7 +13,7 @@ Hyelin Nam, Jihong Park, and Seong-Lyun Kim
 [![Scholar](https://img.shields.io/badge/Google_Scholar-Citations-252341?style=for-the-badge&logo=googlescholar&logoColor=A78BFA)](https://scholar.google.com/scholar?q=Active+Wireless+Split+Learning+via+Online+Cloud-Local+Server+Delta-Knowledge+Distillation)
 
 
-# Getting started
+### Getting started
 dataset : CIFAR10 \\
 main : Up_down_sparsification_VGG.py
 
