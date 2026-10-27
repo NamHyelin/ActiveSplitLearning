@@ -4,7 +4,9 @@ Official implementation of the following paper:
 
 ### Publication
 **Active Wireless Split Learning via Online Cloud-Local Server Delta-Knowledge Distillation**
+
 Hyelin Nam, Jihong Park, and Seong-Lyun Kim
+
 *IEEE International Conference on Communications Workshops (ICC Workshops), 2023*
 
 [![Paper](https://img.shields.io/badge/IEEE-Paper-262139?style=for-the-badge&logo=ieee&logoColor=F472B6)](https://doi.org/10.1109/ICCWorkshops57953.2023.10283579)
